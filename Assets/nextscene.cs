@@ -8,7 +8,7 @@ public class nextscene : MonoBehaviour
 {
     public string scenename;
 
-    void OnTriggerEnter()
+    void OnTriggerStay()
     {
         SceneManager.LoadScene(scenename);
     }
