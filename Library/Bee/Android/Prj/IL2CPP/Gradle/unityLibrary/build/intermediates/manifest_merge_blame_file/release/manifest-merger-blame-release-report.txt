@@ -1,0 +1,146 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:3-52
+12-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:17-49
+13    <uses-feature
+13-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-63
+15        android:required="false" />
+15-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:64-88
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-65
+17-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:20-62
+18
+19    <uses-feature
+19-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-88
+20        android:name="android.hardware.touchscreen"
+20-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:17-60
+21        android:required="false" />
+21-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:61-85
+22    <uses-feature
+22-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:3-99
+23        android:name="android.hardware.touchscreen.multitouch"
+23-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:17-71
+24        android:required="false" />
+24-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:72-96
+25    <uses-feature
+25-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:3-108
+26        android:name="android.hardware.touchscreen.multitouch.distinct"
+26-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-80
+27        android:required="false" />
+27-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:81-105
+28    <uses-feature
+28-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-111
+29        android:name="android.hardware.vr.headtracking"
+29-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-64
+30        android:required="true"
+30-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:65-88
+31        android:version="1" />
+31-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:89-108
+32
+33    <application android:extractNativeLibs="true" >
+33-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-20:17
+33-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+34        <activity
+34-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-13:16
+35            android:name="com.unity3d.player.UnityPlayerActivity"
+35-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+36            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+36-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:180-361
+37            android:hardwareAccelerated="false"
+37-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:397-432
+38            android:launchMode="singleTask"
+38-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:148-179
+39            android:resizeableActivity="false"
+39-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:362-396
+40            android:screenOrientation="fullUser"
+40-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-147
+41            android:theme="@style/UnityThemeSelector" >
+41-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+42            <intent-filter>
+42-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-9:23
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+43-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+45-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+46                <category android:name="com.oculus.intent.category.VR" />
+46-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:9-66
+46-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:19-63
+47            </intent-filter>
+48
+49            <meta-data
+49-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-82
+50                android:name="unityplayer.UnityActivity"
+50-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-58
+51                android:value="true" />
+51-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:59-79
+52            <meta-data
+52-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:7-78
+53                android:name="android.notch_support"
+53-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:18-54
+54                android:value="true" />
+54-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+55            <meta-data
+55-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:7-81
+56                android:name="com.oculus.vr.focusaware"
+56-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:18-57
+57                android:value="true" />
+57-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:58-78
+58        </activity>
+59
+60        <meta-data
+60-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-69
+61            android:name="unity.splash-mode"
+61-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-48
+62            android:value="0" />
+62-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:49-66
+63        <meta-data
+63-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-74
+64            android:name="unity.splash-enable"
+64-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-50
+65            android:value="True" />
+65-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:51-71
+66        <meta-data
+66-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+67            android:name="unity.launch-fullscreen"
+67-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-54
+68            android:value="True" />
+68-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:55-75
+69        <meta-data
+69-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-84
+70            android:name="unity.allow-resizable-window"
+70-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-59
+71            android:value="False" />
+71-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:60-81
+72        <meta-data
+72-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-81
+73            android:name="notch.config"
+73-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-43
+74            android:value="portrait|landscape" />
+74-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:44-78
+75        <meta-data
+75-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-90
+76            android:name="com.oculus.supportedDevices"
+76-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-58
+77            android:value="quest|quest2" />
+77-->C:\Users\PC-Benutzer\Documents\GitHub\GirlsDay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:59-87
+78    </application>
+79
+80</manifest>
